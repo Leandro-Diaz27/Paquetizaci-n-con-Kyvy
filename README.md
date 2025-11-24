@@ -1,4 +1,4 @@
-# Paquetizaci-n-con-Kyvy
+# Paquetizacion-con-Kyvy
 
 ## Descripción
 Esta es una aplicación móvil desarrollada en Python utilizando el framework Kivy, es un ejemplo simple de un HELLO WORLD.
